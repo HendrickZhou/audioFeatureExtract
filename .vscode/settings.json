@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/zhouhang/anaconda3/envs/song-recong/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
